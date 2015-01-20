@@ -5,8 +5,8 @@
       'Backbone': 'lib/backbone',
       'jquery': 'lib/jquery',
       'underscore': 'lib/underscore'
-      }
-    });
+    }
+  });
   define(["Backbone"], function(Backbone) {
     console.log(Backbone);
   });
